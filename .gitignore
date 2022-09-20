@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+.DS_Store
+
+build/
+dev/
+coverage/
+
+*.zip
+*.crx
+*.pem
+update.xml
+.vscode
+yarn.lock
+package-lock.json
+.nyc_output
+.idea
